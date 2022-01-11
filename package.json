@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Ayan-thecodeking/PR-Action#readme",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "@actions/github": "^5.0.0"
+    "@actions/github": "^5.0.0",
+    "@vercel/ncc": "^0.33.1"
   }
 }
