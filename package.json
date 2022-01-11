@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Ayan-thecodeking/PR-Action/issues"
   },
-  "homepage": "https://github.com/Ayan-thecodeking/PR-Action#readme"
+  "homepage": "https://github.com/Ayan-thecodeking/PR-Action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
 }
